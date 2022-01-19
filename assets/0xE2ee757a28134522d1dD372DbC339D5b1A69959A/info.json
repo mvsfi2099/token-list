@@ -1,0 +1,20 @@
+{
+  "name": "Wrapped TSR",
+  "website": "",
+  "description": "Wrapped TSR",
+  "explorer": "https://explorer.mvsfi.net/address/0xE2ee757a28134522d1dD372DbC339D5b1A69959A",
+  "type": "ERC20",
+  "symbol": "WTSR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE2ee757a28134522d1dD372DbC339D5b1A69959A",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": ""
+    }
+  ]
+}
