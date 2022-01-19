@@ -1,0 +1,20 @@
+{
+  "name": "Tensor-Peg Tether USD",
+  "website": "",
+  "description": "Tensor-Peg Tether USD",
+  "explorer": "https://explorer.mvsfi.net/address/0x2344B855DdE578f2783F04303F6b0C1CCA66be40",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2344B855DdE578f2783F04303F6b0C1CCA66be40",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mvsfi",
+  "logoURI": "https://raw.githubusercontent.com/mvsfi2099/token-list/master/assets/mvsfi-interface.svg",
+  "keywords": [
+    "Mvsfi"
+  ],
+  "timestamp": "2022-01-20T20:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1130,
+      "address": "0x2344B855DdE578f2783F04303F6b0C1CCA66be40",
+      "name": "Tensor-Peg Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mvsfi2099/token-list/master/assets/0x2344B855DdE578f2783F04303F6b0C1CCA66be40/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

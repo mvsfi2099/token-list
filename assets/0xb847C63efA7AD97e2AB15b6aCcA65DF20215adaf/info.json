@@ -1,0 +1,20 @@
+{
+  "name": "Tensor-Peg Bitcoin Token",
+  "website": "",
+  "description": "Tensor-Peg Bitcoin Token",
+  "explorer": "https://explorer.mvsfi.net/address/0xb847C63efA7AD97e2AB15b6aCcA65DF20215adaf",
+  "type": "ERC20",
+  "symbol": "BTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb847C63efA7AD97e2AB15b6aCcA65DF20215adaf",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": ""
+    }
+  ]
+}

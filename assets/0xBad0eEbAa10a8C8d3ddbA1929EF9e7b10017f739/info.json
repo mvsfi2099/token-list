@@ -1,0 +1,20 @@
+{
+  "name": "Tensor-Peg Binance Token",
+  "website": "",
+  "description": "Tensor-Peg Binance Token",
+  "explorer": "https://explorer.mvsfi.net/address/0xBad0eEbAa10a8C8d3ddbA1929EF9e7b10017f739",
+  "type": "ERC20",
+  "symbol": "BNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBad0eEbAa10a8C8d3ddbA1929EF9e7b10017f739",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": ""
+    }
+  ]
+}
